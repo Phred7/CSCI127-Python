@@ -1,0 +1,89 @@
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 1
+
+Title: Electric Phase / Hot 'n' Ready / Pack It Up 'n' Go / Cherry / Out In The Street / Let It Roll / Too Hot To Handle
+Length to nearest second: 1820
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 2
+Enter desired year: 2010
+The number of songs from 2010 is 64
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 2
+Enter desired year: 2018
+The number of songs from 2018 is 0
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 3
+Enter name of artist: eurythmics
+
+Songs In Alphabetical Order
+---------------------------
+1 A Little Of You
+2 Better To Have Lost In Love (Than Never To Have Loved)
+3 Missionary Man
+4 Tous Les GarASSons Et Les Filles
+---------------------------
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 3
+Enter name of artist: EURYTHMICS
+
+Songs In Alphabetical Order
+---------------------------
+1 A Little Of You
+2 Better To Have Lost In Love (Than Never To Have Loved)
+3 Missionary Man
+4 Tous Les GarASSons Et Les Filles
+---------------------------
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 3
+Enter name of artist: Elton John
+
+Songs In Alphabetical Order
+---------------------------
+There are no songs by this artist.
+---------------------------
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 6
+That is not a valid option.  Please try again.
+
+1. Identify longest song.
+2. Identify number of songs in a given year.
+3. Identify all songs by a given artist.
+4. You choose something that is interesting and non-trivial.
+5. Quit.
+Enter your choice: 5
+>>>
